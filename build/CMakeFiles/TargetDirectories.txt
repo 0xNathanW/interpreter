@@ -1,3 +1,0 @@
-/home/nathan/Dev/interpreter/build/CMakeFiles/interpreter.dir
-/home/nathan/Dev/interpreter/build/CMakeFiles/edit_cache.dir
-/home/nathan/Dev/interpreter/build/CMakeFiles/rebuild_cache.dir
